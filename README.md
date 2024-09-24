@@ -22,5 +22,5 @@ This project is a Python-based web scraper that uses Selenium to extract real-ti
 2. Download the Chrome WebDriver and ensure it's available in your system's PATH or set the correct path in the script.
 3. Run the script to automatically fetch stock data and save it to a CSV file:
    ```bash
-   python stock_scraper.py
+   python stockPrices.py
 4. Customize the list of stock symbols in the script to target different companies.
